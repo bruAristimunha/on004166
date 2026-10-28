@@ -1,0 +1,2136 @@
+{
+  "SourceGitCommit": "30750fc59a998996fb9d3933992ea42ae7e517ce",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-06/ses-01/eeg/sub-06_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-06/ses-01/eeg/sub-06_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-06/ses-01/eeg/sub-06_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-06/ses-02/eeg/sub-06_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-06/ses-02/eeg/sub-06_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-06/ses-02/eeg/sub-06_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-06/ses-03/eeg/sub-06_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-06/ses-03/eeg/sub-06_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-06/ses-03/eeg/sub-06_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-07/ses-01/eeg/sub-07_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-07/ses-01/eeg/sub-07_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-07/ses-01/eeg/sub-07_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-07/ses-02/eeg/sub-07_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-07/ses-02/eeg/sub-07_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-07/ses-02/eeg/sub-07_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-07/ses-03/eeg/sub-07_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-07/ses-03/eeg/sub-07_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-07/ses-03/eeg/sub-07_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-08/ses-01/eeg/sub-08_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-08/ses-01/eeg/sub-08_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-08/ses-01/eeg/sub-08_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-08/ses-02/eeg/sub-08_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-08/ses-02/eeg/sub-08_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-08/ses-02/eeg/sub-08_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-08/ses-03/eeg/sub-08_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-08/ses-03/eeg/sub-08_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-08/ses-03/eeg/sub-08_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-09/ses-01/eeg/sub-09_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-09/ses-01/eeg/sub-09_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-09/ses-01/eeg/sub-09_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-09/ses-02/eeg/sub-09_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-09/ses-02/eeg/sub-09_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-09/ses-02/eeg/sub-09_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-09/ses-03/eeg/sub-09_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-09/ses-03/eeg/sub-09_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-09/ses-03/eeg/sub-09_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-10/ses-01/eeg/sub-10_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-10/ses-01/eeg/sub-10_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-10/ses-01/eeg/sub-10_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-10/ses-02/eeg/sub-10_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-10/ses-02/eeg/sub-10_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-10/ses-02/eeg/sub-10_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-10/ses-03/eeg/sub-10_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-10/ses-03/eeg/sub-10_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-10/ses-03/eeg/sub-10_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-101/ses-01/eeg/sub-101_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-101/ses-01/eeg/sub-101_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-101/ses-01/eeg/sub-101_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-101/ses-02/eeg/sub-101_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-101/ses-02/eeg/sub-101_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-101/ses-02/eeg/sub-101_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-101/ses-03/eeg/sub-101_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-101/ses-03/eeg/sub-101_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-101/ses-03/eeg/sub-101_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-102/ses-01/eeg/sub-102_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-102/ses-01/eeg/sub-102_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-102/ses-01/eeg/sub-102_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-102/ses-02/eeg/sub-102_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-102/ses-02/eeg/sub-102_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-102/ses-02/eeg/sub-102_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-102/ses-03/eeg/sub-102_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-102/ses-03/eeg/sub-102_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-102/ses-03/eeg/sub-102_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-103/ses-01/eeg/sub-103_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-103/ses-01/eeg/sub-103_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-103/ses-01/eeg/sub-103_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-103/ses-02/eeg/sub-103_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-103/ses-02/eeg/sub-103_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-103/ses-02/eeg/sub-103_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-103/ses-03/eeg/sub-103_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-103/ses-03/eeg/sub-103_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-103/ses-03/eeg/sub-103_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-104/ses-01/eeg/sub-104_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-104/ses-01/eeg/sub-104_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-104/ses-01/eeg/sub-104_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-104/ses-02/eeg/sub-104_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-104/ses-02/eeg/sub-104_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-104/ses-02/eeg/sub-104_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-104/ses-03/eeg/sub-104_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-104/ses-03/eeg/sub-104_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-104/ses-03/eeg/sub-104_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-105/ses-01/eeg/sub-105_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-105/ses-01/eeg/sub-105_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-105/ses-01/eeg/sub-105_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-105/ses-02/eeg/sub-105_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-105/ses-02/eeg/sub-105_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-105/ses-02/eeg/sub-105_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-105/ses-03/eeg/sub-105_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-105/ses-03/eeg/sub-105_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-105/ses-03/eeg/sub-105_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-106/ses-01/eeg/sub-106_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-106/ses-01/eeg/sub-106_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-106/ses-01/eeg/sub-106_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-106/ses-02/eeg/sub-106_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-106/ses-02/eeg/sub-106_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-106/ses-02/eeg/sub-106_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-106/ses-03/eeg/sub-106_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-106/ses-03/eeg/sub-106_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-106/ses-03/eeg/sub-106_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-107/ses-01/eeg/sub-107_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-107/ses-01/eeg/sub-107_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-107/ses-01/eeg/sub-107_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-107/ses-02/eeg/sub-107_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-107/ses-02/eeg/sub-107_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-107/ses-02/eeg/sub-107_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-107/ses-03/eeg/sub-107_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-107/ses-03/eeg/sub-107_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-107/ses-03/eeg/sub-107_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-108/ses-01/eeg/sub-108_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-108/ses-01/eeg/sub-108_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-108/ses-01/eeg/sub-108_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-108/ses-02/eeg/sub-108_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-108/ses-02/eeg/sub-108_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-108/ses-02/eeg/sub-108_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-108/ses-03/eeg/sub-108_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-108/ses-03/eeg/sub-108_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-108/ses-03/eeg/sub-108_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-109/ses-01/eeg/sub-109_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-109/ses-01/eeg/sub-109_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-109/ses-01/eeg/sub-109_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-109/ses-02/eeg/sub-109_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-109/ses-02/eeg/sub-109_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-109/ses-02/eeg/sub-109_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-109/ses-03/eeg/sub-109_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-109/ses-03/eeg/sub-109_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-109/ses-03/eeg/sub-109_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-11/ses-01/eeg/sub-11_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-11/ses-01/eeg/sub-11_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-11/ses-01/eeg/sub-11_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-11/ses-02/eeg/sub-11_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-11/ses-02/eeg/sub-11_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-11/ses-02/eeg/sub-11_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-11/ses-03/eeg/sub-11_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-11/ses-03/eeg/sub-11_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-11/ses-03/eeg/sub-11_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-110/ses-01/eeg/sub-110_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-110/ses-01/eeg/sub-110_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-110/ses-01/eeg/sub-110_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-110/ses-02/eeg/sub-110_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-110/ses-02/eeg/sub-110_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-110/ses-02/eeg/sub-110_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-110/ses-03/eeg/sub-110_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-110/ses-03/eeg/sub-110_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-110/ses-03/eeg/sub-110_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-111/ses-01/eeg/sub-111_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-111/ses-01/eeg/sub-111_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-111/ses-01/eeg/sub-111_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-111/ses-02/eeg/sub-111_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-111/ses-02/eeg/sub-111_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-111/ses-02/eeg/sub-111_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-111/ses-03/eeg/sub-111_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-111/ses-03/eeg/sub-111_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-111/ses-03/eeg/sub-111_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-112/ses-01/eeg/sub-112_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-112/ses-01/eeg/sub-112_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-112/ses-01/eeg/sub-112_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-112/ses-02/eeg/sub-112_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-112/ses-02/eeg/sub-112_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-112/ses-02/eeg/sub-112_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-112/ses-03/eeg/sub-112_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-112/ses-03/eeg/sub-112_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-112/ses-03/eeg/sub-112_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-113/ses-01/eeg/sub-113_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-113/ses-01/eeg/sub-113_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-113/ses-01/eeg/sub-113_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-113/ses-02/eeg/sub-113_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-113/ses-02/eeg/sub-113_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-113/ses-02/eeg/sub-113_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-113/ses-03/eeg/sub-113_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-113/ses-03/eeg/sub-113_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-113/ses-03/eeg/sub-113_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-114/ses-01/eeg/sub-114_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-114/ses-01/eeg/sub-114_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-114/ses-01/eeg/sub-114_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-114/ses-02/eeg/sub-114_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-114/ses-02/eeg/sub-114_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-114/ses-02/eeg/sub-114_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-114/ses-03/eeg/sub-114_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-114/ses-03/eeg/sub-114_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-114/ses-03/eeg/sub-114_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-115/ses-01/eeg/sub-115_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-115/ses-01/eeg/sub-115_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-115/ses-01/eeg/sub-115_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-115/ses-02/eeg/sub-115_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-115/ses-02/eeg/sub-115_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-115/ses-02/eeg/sub-115_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-115/ses-03/eeg/sub-115_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-115/ses-03/eeg/sub-115_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-115/ses-03/eeg/sub-115_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-116/ses-01/eeg/sub-116_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-116/ses-01/eeg/sub-116_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-116/ses-01/eeg/sub-116_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-116/ses-02/eeg/sub-116_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-116/ses-02/eeg/sub-116_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-116/ses-02/eeg/sub-116_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-116/ses-03/eeg/sub-116_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-116/ses-03/eeg/sub-116_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-116/ses-03/eeg/sub-116_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-117/ses-01/eeg/sub-117_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-117/ses-01/eeg/sub-117_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-117/ses-01/eeg/sub-117_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-117/ses-02/eeg/sub-117_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-117/ses-02/eeg/sub-117_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-117/ses-02/eeg/sub-117_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-117/ses-03/eeg/sub-117_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-117/ses-03/eeg/sub-117_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-117/ses-03/eeg/sub-117_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-118/ses-01/eeg/sub-118_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-118/ses-01/eeg/sub-118_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-118/ses-01/eeg/sub-118_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-118/ses-02/eeg/sub-118_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-118/ses-02/eeg/sub-118_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-118/ses-02/eeg/sub-118_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-118/ses-03/eeg/sub-118_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-118/ses-03/eeg/sub-118_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-118/ses-03/eeg/sub-118_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-119/ses-01/eeg/sub-119_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-119/ses-01/eeg/sub-119_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-119/ses-01/eeg/sub-119_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-119/ses-02/eeg/sub-119_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-119/ses-02/eeg/sub-119_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-119/ses-02/eeg/sub-119_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-119/ses-03/eeg/sub-119_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-119/ses-03/eeg/sub-119_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-119/ses-03/eeg/sub-119_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-12/ses-01/eeg/sub-12_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-12/ses-01/eeg/sub-12_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-12/ses-01/eeg/sub-12_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-12/ses-02/eeg/sub-12_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-12/ses-02/eeg/sub-12_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-12/ses-02/eeg/sub-12_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-12/ses-03/eeg/sub-12_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-12/ses-03/eeg/sub-12_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-12/ses-03/eeg/sub-12_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-120/ses-01/eeg/sub-120_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-120/ses-01/eeg/sub-120_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-120/ses-01/eeg/sub-120_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-120/ses-02/eeg/sub-120_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-120/ses-02/eeg/sub-120_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-120/ses-02/eeg/sub-120_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-120/ses-03/eeg/sub-120_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-120/ses-03/eeg/sub-120_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-120/ses-03/eeg/sub-120_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-13/ses-01/eeg/sub-13_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-13/ses-01/eeg/sub-13_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-13/ses-01/eeg/sub-13_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-13/ses-02/eeg/sub-13_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-13/ses-02/eeg/sub-13_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-13/ses-02/eeg/sub-13_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-13/ses-03/eeg/sub-13_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-13/ses-03/eeg/sub-13_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-13/ses-03/eeg/sub-13_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-14/ses-01/eeg/sub-14_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-14/ses-01/eeg/sub-14_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-14/ses-01/eeg/sub-14_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-14/ses-02/eeg/sub-14_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-14/ses-02/eeg/sub-14_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-14/ses-02/eeg/sub-14_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-14/ses-03/eeg/sub-14_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-14/ses-03/eeg/sub-14_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-14/ses-03/eeg/sub-14_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-15/ses-01/eeg/sub-15_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-15/ses-01/eeg/sub-15_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-15/ses-01/eeg/sub-15_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-15/ses-02/eeg/sub-15_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-15/ses-02/eeg/sub-15_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-15/ses-02/eeg/sub-15_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-15/ses-03/eeg/sub-15_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-15/ses-03/eeg/sub-15_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-15/ses-03/eeg/sub-15_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-16/ses-01/eeg/sub-16_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-16/ses-01/eeg/sub-16_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-16/ses-01/eeg/sub-16_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-16/ses-02/eeg/sub-16_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-16/ses-02/eeg/sub-16_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-16/ses-02/eeg/sub-16_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-16/ses-03/eeg/sub-16_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-16/ses-03/eeg/sub-16_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-16/ses-03/eeg/sub-16_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-17/ses-01/eeg/sub-17_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-17/ses-01/eeg/sub-17_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-17/ses-01/eeg/sub-17_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-17/ses-02/eeg/sub-17_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-17/ses-02/eeg/sub-17_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-17/ses-02/eeg/sub-17_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-17/ses-03/eeg/sub-17_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-17/ses-03/eeg/sub-17_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-17/ses-03/eeg/sub-17_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-18/ses-01/eeg/sub-18_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-18/ses-01/eeg/sub-18_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-18/ses-01/eeg/sub-18_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-18/ses-02/eeg/sub-18_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-18/ses-02/eeg/sub-18_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-18/ses-02/eeg/sub-18_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-18/ses-03/eeg/sub-18_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-18/ses-03/eeg/sub-18_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-18/ses-03/eeg/sub-18_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-19/ses-01/eeg/sub-19_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-19/ses-01/eeg/sub-19_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-19/ses-01/eeg/sub-19_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-19/ses-02/eeg/sub-19_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-19/ses-02/eeg/sub-19_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-19/ses-02/eeg/sub-19_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-19/ses-03/eeg/sub-19_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-19/ses-03/eeg/sub-19_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-19/ses-03/eeg/sub-19_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-20/ses-01/eeg/sub-20_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-20/ses-01/eeg/sub-20_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-20/ses-01/eeg/sub-20_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-20/ses-02/eeg/sub-20_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-20/ses-02/eeg/sub-20_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-20/ses-02/eeg/sub-20_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-20/ses-03/eeg/sub-20_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-20/ses-03/eeg/sub-20_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-20/ses-03/eeg/sub-20_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-201/ses-01/eeg/sub-201_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-201/ses-01/eeg/sub-201_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-201/ses-01/eeg/sub-201_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-201/ses-02/eeg/sub-201_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-201/ses-02/eeg/sub-201_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-201/ses-02/eeg/sub-201_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-201/ses-03/eeg/sub-201_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-201/ses-03/eeg/sub-201_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-201/ses-03/eeg/sub-201_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-202/ses-01/eeg/sub-202_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-202/ses-01/eeg/sub-202_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-202/ses-01/eeg/sub-202_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-202/ses-02/eeg/sub-202_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-202/ses-02/eeg/sub-202_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-202/ses-02/eeg/sub-202_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-202/ses-03/eeg/sub-202_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-202/ses-03/eeg/sub-202_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-202/ses-03/eeg/sub-202_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-203/ses-01/eeg/sub-203_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-203/ses-01/eeg/sub-203_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-203/ses-01/eeg/sub-203_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-203/ses-02/eeg/sub-203_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-203/ses-02/eeg/sub-203_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-203/ses-02/eeg/sub-203_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-203/ses-03/eeg/sub-203_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-203/ses-03/eeg/sub-203_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-203/ses-03/eeg/sub-203_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-204/ses-01/eeg/sub-204_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-204/ses-01/eeg/sub-204_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-204/ses-01/eeg/sub-204_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-204/ses-02/eeg/sub-204_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-204/ses-02/eeg/sub-204_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-204/ses-02/eeg/sub-204_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-204/ses-03/eeg/sub-204_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-204/ses-03/eeg/sub-204_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-204/ses-03/eeg/sub-204_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-205/ses-01/eeg/sub-205_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-205/ses-01/eeg/sub-205_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-205/ses-01/eeg/sub-205_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-205/ses-02/eeg/sub-205_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-205/ses-02/eeg/sub-205_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-205/ses-02/eeg/sub-205_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-205/ses-03/eeg/sub-205_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-205/ses-03/eeg/sub-205_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-205/ses-03/eeg/sub-205_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-206/ses-01/eeg/sub-206_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-206/ses-01/eeg/sub-206_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-206/ses-01/eeg/sub-206_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-206/ses-02/eeg/sub-206_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-206/ses-02/eeg/sub-206_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-206/ses-02/eeg/sub-206_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-206/ses-03/eeg/sub-206_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-206/ses-03/eeg/sub-206_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-206/ses-03/eeg/sub-206_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-207/ses-01/eeg/sub-207_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-207/ses-01/eeg/sub-207_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-207/ses-01/eeg/sub-207_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-207/ses-02/eeg/sub-207_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-207/ses-02/eeg/sub-207_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-207/ses-02/eeg/sub-207_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-207/ses-03/eeg/sub-207_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-207/ses-03/eeg/sub-207_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-207/ses-03/eeg/sub-207_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-208/ses-01/eeg/sub-208_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-208/ses-01/eeg/sub-208_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-208/ses-01/eeg/sub-208_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-208/ses-02/eeg/sub-208_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-208/ses-02/eeg/sub-208_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-208/ses-02/eeg/sub-208_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-208/ses-03/eeg/sub-208_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-208/ses-03/eeg/sub-208_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-208/ses-03/eeg/sub-208_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-209/ses-01/eeg/sub-209_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-209/ses-01/eeg/sub-209_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-209/ses-01/eeg/sub-209_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-209/ses-02/eeg/sub-209_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-209/ses-02/eeg/sub-209_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-209/ses-02/eeg/sub-209_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-209/ses-03/eeg/sub-209_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-209/ses-03/eeg/sub-209_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-209/ses-03/eeg/sub-209_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-210/ses-01/eeg/sub-210_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-210/ses-01/eeg/sub-210_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-210/ses-01/eeg/sub-210_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-210/ses-02/eeg/sub-210_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-210/ses-02/eeg/sub-210_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-210/ses-02/eeg/sub-210_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-210/ses-03/eeg/sub-210_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-210/ses-03/eeg/sub-210_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-210/ses-03/eeg/sub-210_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-211/ses-01/eeg/sub-211_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-211/ses-01/eeg/sub-211_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-211/ses-01/eeg/sub-211_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-211/ses-02/eeg/sub-211_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-211/ses-02/eeg/sub-211_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-211/ses-02/eeg/sub-211_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-211/ses-03/eeg/sub-211_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-211/ses-03/eeg/sub-211_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-211/ses-03/eeg/sub-211_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-212/ses-01/eeg/sub-212_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-212/ses-01/eeg/sub-212_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-212/ses-01/eeg/sub-212_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-212/ses-02/eeg/sub-212_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-212/ses-02/eeg/sub-212_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-212/ses-02/eeg/sub-212_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-212/ses-03/eeg/sub-212_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-212/ses-03/eeg/sub-212_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-212/ses-03/eeg/sub-212_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-213/ses-01/eeg/sub-213_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-213/ses-01/eeg/sub-213_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-213/ses-01/eeg/sub-213_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-213/ses-02/eeg/sub-213_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-213/ses-02/eeg/sub-213_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-213/ses-02/eeg/sub-213_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-213/ses-03/eeg/sub-213_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-213/ses-03/eeg/sub-213_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-213/ses-03/eeg/sub-213_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-214/ses-01/eeg/sub-214_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-214/ses-01/eeg/sub-214_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-214/ses-01/eeg/sub-214_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-214/ses-02/eeg/sub-214_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-214/ses-02/eeg/sub-214_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-214/ses-02/eeg/sub-214_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-214/ses-03/eeg/sub-214_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-214/ses-03/eeg/sub-214_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-214/ses-03/eeg/sub-214_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-215/ses-01/eeg/sub-215_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-215/ses-01/eeg/sub-215_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-215/ses-01/eeg/sub-215_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-215/ses-02/eeg/sub-215_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-215/ses-02/eeg/sub-215_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-215/ses-02/eeg/sub-215_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-215/ses-03/eeg/sub-215_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-215/ses-03/eeg/sub-215_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-215/ses-03/eeg/sub-215_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-216/ses-01/eeg/sub-216_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-216/ses-01/eeg/sub-216_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-216/ses-01/eeg/sub-216_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-216/ses-02/eeg/sub-216_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-216/ses-02/eeg/sub-216_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-216/ses-02/eeg/sub-216_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-216/ses-03/eeg/sub-216_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-216/ses-03/eeg/sub-216_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-216/ses-03/eeg/sub-216_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-217/ses-01/eeg/sub-217_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-217/ses-01/eeg/sub-217_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-217/ses-01/eeg/sub-217_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-217/ses-02/eeg/sub-217_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-217/ses-02/eeg/sub-217_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-217/ses-02/eeg/sub-217_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-217/ses-03/eeg/sub-217_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-217/ses-03/eeg/sub-217_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-217/ses-03/eeg/sub-217_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-218/ses-01/eeg/sub-218_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-218/ses-01/eeg/sub-218_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-218/ses-01/eeg/sub-218_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-218/ses-02/eeg/sub-218_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-218/ses-02/eeg/sub-218_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-218/ses-02/eeg/sub-218_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-218/ses-03/eeg/sub-218_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-218/ses-03/eeg/sub-218_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-218/ses-03/eeg/sub-218_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-219/ses-01/eeg/sub-219_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-219/ses-01/eeg/sub-219_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-219/ses-01/eeg/sub-219_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-219/ses-02/eeg/sub-219_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-219/ses-02/eeg/sub-219_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-219/ses-02/eeg/sub-219_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-219/ses-03/eeg/sub-219_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-219/ses-03/eeg/sub-219_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-219/ses-03/eeg/sub-219_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-220/ses-01/eeg/sub-220_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-220/ses-01/eeg/sub-220_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-220/ses-01/eeg/sub-220_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-220/ses-02/eeg/sub-220_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-220/ses-02/eeg/sub-220_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-220/ses-02/eeg/sub-220_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-220/ses-03/eeg/sub-220_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-220/ses-03/eeg/sub-220_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-220/ses-03/eeg/sub-220_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-301/ses-01/eeg/sub-301_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-301/ses-01/eeg/sub-301_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-301/ses-01/eeg/sub-301_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-301/ses-02/eeg/sub-301_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-301/ses-02/eeg/sub-301_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-301/ses-02/eeg/sub-301_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-301/ses-03/eeg/sub-301_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-301/ses-03/eeg/sub-301_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-301/ses-03/eeg/sub-301_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-302/ses-01/eeg/sub-302_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-302/ses-01/eeg/sub-302_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-302/ses-01/eeg/sub-302_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-302/ses-02/eeg/sub-302_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-302/ses-02/eeg/sub-302_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-302/ses-02/eeg/sub-302_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-302/ses-03/eeg/sub-302_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-302/ses-03/eeg/sub-302_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-302/ses-03/eeg/sub-302_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-303/ses-01/eeg/sub-303_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-303/ses-01/eeg/sub-303_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-303/ses-01/eeg/sub-303_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-303/ses-02/eeg/sub-303_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-303/ses-02/eeg/sub-303_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-303/ses-02/eeg/sub-303_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-303/ses-03/eeg/sub-303_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-303/ses-03/eeg/sub-303_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-303/ses-03/eeg/sub-303_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-304/ses-01/eeg/sub-304_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-304/ses-01/eeg/sub-304_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-304/ses-01/eeg/sub-304_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-304/ses-02/eeg/sub-304_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-304/ses-02/eeg/sub-304_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-304/ses-02/eeg/sub-304_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-304/ses-03/eeg/sub-304_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-304/ses-03/eeg/sub-304_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-304/ses-03/eeg/sub-304_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-305/ses-01/eeg/sub-305_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-305/ses-01/eeg/sub-305_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-305/ses-01/eeg/sub-305_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-305/ses-02/eeg/sub-305_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-305/ses-02/eeg/sub-305_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-305/ses-02/eeg/sub-305_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-305/ses-03/eeg/sub-305_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-305/ses-03/eeg/sub-305_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-305/ses-03/eeg/sub-305_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-306/ses-01/eeg/sub-306_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-306/ses-01/eeg/sub-306_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-306/ses-01/eeg/sub-306_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-306/ses-02/eeg/sub-306_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-306/ses-02/eeg/sub-306_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-306/ses-02/eeg/sub-306_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-306/ses-03/eeg/sub-306_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-306/ses-03/eeg/sub-306_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-306/ses-03/eeg/sub-306_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-307/ses-01/eeg/sub-307_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-307/ses-01/eeg/sub-307_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-307/ses-01/eeg/sub-307_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-307/ses-02/eeg/sub-307_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-307/ses-02/eeg/sub-307_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-307/ses-02/eeg/sub-307_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-307/ses-03/eeg/sub-307_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-307/ses-03/eeg/sub-307_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-307/ses-03/eeg/sub-307_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-308/ses-01/eeg/sub-308_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-308/ses-01/eeg/sub-308_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-308/ses-01/eeg/sub-308_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-308/ses-02/eeg/sub-308_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-308/ses-02/eeg/sub-308_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-308/ses-02/eeg/sub-308_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-308/ses-03/eeg/sub-308_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-308/ses-03/eeg/sub-308_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-308/ses-03/eeg/sub-308_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-309/ses-01/eeg/sub-309_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-309/ses-01/eeg/sub-309_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-309/ses-01/eeg/sub-309_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-309/ses-02/eeg/sub-309_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-309/ses-02/eeg/sub-309_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-309/ses-02/eeg/sub-309_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-309/ses-03/eeg/sub-309_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-309/ses-03/eeg/sub-309_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-309/ses-03/eeg/sub-309_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-310/ses-01/eeg/sub-310_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-310/ses-01/eeg/sub-310_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-310/ses-01/eeg/sub-310_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-310/ses-02/eeg/sub-310_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-310/ses-02/eeg/sub-310_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-310/ses-02/eeg/sub-310_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-310/ses-03/eeg/sub-310_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-310/ses-03/eeg/sub-310_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-310/ses-03/eeg/sub-310_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-311/ses-01/eeg/sub-311_ses-01_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-311/ses-01/eeg/sub-311_ses-01_task-WM_run-1_eeg.fdt",
+        "sub-311/ses-01/eeg/sub-311_ses-01_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-311/ses-02/eeg/sub-311_ses-02_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-311/ses-02/eeg/sub-311_ses-02_task-WM_run-1_eeg.fdt",
+        "sub-311/ses-02/eeg/sub-311_ses-02_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    },
+    {
+      "path": "sub-311/ses-03/eeg/sub-311_ses-03_task-WM_run-1_eeg.json",
+      "task_token": "WM",
+      "source_files": [
+        "sub-311/ses-03/eeg/sub-311_ses-03_task-WM_run-1_eeg.fdt",
+        "sub-311/ses-03/eeg/sub-311_ses-03_task-WM_run-1_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "f34e5f79157c87ab719872ba6d9ba1e37a6303c7f683baaf72a0d6d4643fee42"
+    }
+  ]
+}
